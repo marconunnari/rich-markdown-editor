@@ -396,7 +396,7 @@ export const StyledEditor = styled("div")<{
   }
 
   p {
-    margin: 0;
+    margin: 0.75rem 0;
 
     span:first-child + br:last-child {
       display: none;
